@@ -8,7 +8,12 @@ An academic project that leverages **Natural Language Processing (NLP)** and **M
 The widespread use of social media platforms like Twitter has resulted in increased instances of offensive, toxic, and inappropriate content. Manual moderation is no longer scalable. This project proposes a machine learning-based text classification system that uses NLP techniques to detect offensive language in tweets. It extracts features from text using vectorization techniques and trains classifiers like Logistic Regression and Naive Bayes to make predictions.  
 
 ## ⚙️ Technologies & Tools Used  
-**Language**: Python | **Libraries**: Pandas, NumPy, Scikit-learn | **NLP**: CountVectorizer, TF-IDF, Tokenization, Stopword Removal, Stemming | **ML Models**: Logistic Regression, Naive Bayes | **Evaluation**: Accuracy, Precision, Recall, F1-score | **Environment**: Jupyter Notebook / Python Scripts 
+**Language**: Python 
+**Libraries**: Pandas, NumPy, Scikit-learn 
+**NLP**: CountVectorizer, TF-IDF, Tokenization, Stopword Removal, Stemming 
+**ML Models**: Logistic Regression, Naive Bayes 
+**Evaluation**: Accuracy, Precision, Recall, F1-score 
+**Environment**: Jupyter Notebook / Python Scripts 
  
 ## 📂 Project Structure  
 📁 offensive-language-detector/  
@@ -19,6 +24,7 @@ The widespread use of social media platforms like Twitter has resulted in increa
 ├── requirements.txt → Python package dependencies  
 ├── report.pdf → Final academic project report  
 └── README.md → Project overview (this file)  
+
 ## 🚀 How to Run This Project  
 1. Clone the repository: `git clone https://github.com/praharsha333/A-Natural-language-processing-powered-approach-for-identifying-inappropriate-language-on-twitter.git`  
 2. Install dependencies: `pip install -r requirements.txt`  
@@ -31,13 +37,18 @@ The widespread use of social media platforms like Twitter has resulted in increa
 - Predicts whether a tweet is offensive or not  
 
 ## 📊 Sample Evaluation Metrics  
-Accuracy: 92.3% | Precision: 90.7% | Recall: 91.5% | F1-Score: 91.1% *(Example values – may vary based on dataset splits)*  
+Accuracy: 92.3% 
+Precision: 90.7% 
+Recall: 91.5% 
+F1-Score: 91.1%  *(Example values – may vary based on dataset splits)*  
 
 ## 📄 Academic Report  
 Detailed report included as `report.pdf` with: Problem Statement, Architecture, Dataset Info, Evaluation, Screenshots, and Results.  
 
  
 ## 📬 Contact  
-📧 Email: praharshathota34@gmail.com | 🔗 GitHub:https://github.com/praharsha333 | 🌐 LinkedIn: www.linkedin.com/in/praharsha-thota
+📧 Email: praharshathota34@gmail.com 
+🔗 GitHub:https://github.com/praharsha333 
+🌐 LinkedIn: www.linkedin.com/in/praharsha-thota
 
 
