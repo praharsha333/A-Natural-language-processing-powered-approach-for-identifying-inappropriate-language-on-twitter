@@ -11,7 +11,7 @@ The widespread use of social media platforms like Twitter has resulted in increa
 **Language**: Python 
 **Libraries**: Pandas, NumPy, Scikit-learn 
 **NLP**: CountVectorizer, TF-IDF, Tokenization, Stopword Removal, Stemming 
-**ML Models**: Logistic Regression, Naive Bayes 
+**ML Models**: AdaBoost,Multilayer Perceptron,Support Vector Machine 
 **Evaluation**: Accuracy, Precision, Recall, F1-score 
 **Environment**: Jupyter Notebook / Python Scripts 
  
