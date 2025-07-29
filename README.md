@@ -38,8 +38,11 @@ The widespread use of social media platforms like Twitter has resulted in increa
 
 ## 📊 Sample Evaluation Metrics  
 Accuracy: 92.3% 
+
 Precision: 90.7% 
+
 Recall: 91.5% 
+
 F1-Score: 91.1%  *(Example values – may vary based on dataset splits)*  
 
 ## 📄 Academic Report  
@@ -48,7 +51,9 @@ Detailed report included as `report.pdf` with: Problem Statement, Architecture, 
  
 ## 📬 Contact  
 📧 Email: praharshathota34@gmail.com 
+
 🔗 GitHub:https://github.com/praharsha333 
+
 🌐 LinkedIn: www.linkedin.com/in/praharsha-thota
 
 
